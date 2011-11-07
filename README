@@ -1,0 +1,4 @@
+This project demonstrates an Android TabWidget with sub-activities for each tab.  
+
+The activities are instantiated and their view is swapped with the parent Activity created
+with an ActivityGroup.
